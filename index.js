@@ -1,1 +1,0 @@
-Function shout(string) {
