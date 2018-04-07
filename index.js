@@ -1,2 +1,1 @@
-funtion 
-shout(string) {
+Function shout(string) {
