@@ -1,0 +1,2 @@
+funtion 
+shout(string) {
